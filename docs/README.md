@@ -15,6 +15,10 @@ Alternative for newer Raspberry Pi models: [RPi-UNO-HAT](https://github.com/watt
 * Optional 3-11V power input for Raspberry Pi and ShieldBridge (Pololu S7V7F5)
 
 
+## Shop
+* [RPi-ShieldBridge for Raspberry Pi 1 Model A and B](http://www.watterott.com/en/RPi-ShieldBridge)
+
+
 ## Hardware
 * ![RPi-ShieldBridge hardware dia](https://github.com/watterott/RPi-ShieldBridge/raw/master/hardware/hw_dia.png)
 * [Schematics + Layout](https://github.com/watterott/RPi-ShieldBridge/tree/master/hardware)

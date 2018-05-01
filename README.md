@@ -9,7 +9,4 @@ Raspberry Pi 1 A/B to Uno Shield Bridge.
 * Shield connectors with Uno R3 layout
 * Additional 3.3V LDO voltage regulator for Shields
 * Prototyping Area
-
-
-## Shop
-* [RPi-ShieldBridge for Raspberry Pi 1 Model A and B](http://www.watterott.com/en/RPi-ShieldBridge)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/rpi-shieldbridge/)**

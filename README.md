@@ -9,4 +9,5 @@ Raspberry Pi 1 A/B to Uno Shield Bridge.
 * Shield connectors with Uno R3 layout
 * Additional 3.3V LDO voltage regulator for Shields
 * Prototyping Area
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/rpi-shieldbridge/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
